@@ -19,3 +19,4 @@ public class Pet {
         long sum2 = whale.mySum(long1, long2);
     }
 }
+
